@@ -33,7 +33,7 @@
 		<!-- <spring.security.version>3.0.5.RELEASE</spring.security.version> -->
 		<spring.security.version>3.1.0.RELEASE</spring.security.version>
 		<slf4j.version>1.6.4</slf4j.version>
-		<logback.version>1.0.0</logback.version>
+		<logback.version>1.0.1</logback.version>
 		<aspectj.version>1.6.12</aspectj.version>
 		<jaxb.version>2.2.5</jaxb.version>
 		<jackson.version>1.9.1</jackson.version>
