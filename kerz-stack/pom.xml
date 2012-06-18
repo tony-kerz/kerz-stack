@@ -640,9 +640,9 @@
 								<value>INFO</value>
 							</systemProperty>
 						</systemProperties>
-<!-- 						<webApp> -->
-<!-- 							<contextPath>/jetty-maven-plugin-webapp</contextPath> -->
-<!-- 						</webApp> -->
+						<webApp>
+							<contextPath>/${project.artifactId}</contextPath>
+						</webApp>
 						<!-- <connectors> -->
 						<!-- <connector implementation="org.eclipse.jetty.server.nio.SelectChannelConnector"> -->
 						<!-- <port>9090</port> -->
