@@ -297,7 +297,7 @@
 			<dependency>
 				<groupId>org.apache.httpcomponents</groupId>
 				<artifactId>httpclient</artifactId>
-				<version>4.2.4</version>
+				<version>4.2.3</version>
 			</dependency>
 
 			<dependency>
@@ -498,18 +498,19 @@
 		<!-- <version>2.4</version> -->
 		<!-- </dependency> -->
 
-		<dependency>
-			<groupId>org.codehaus.jackson</groupId>
-			<artifactId>jackson-core-asl</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.codehaus.jackson</groupId>
-			<artifactId>jackson-mapper-asl</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.codehaus.jackson</groupId>
-			<artifactId>jackson-xc</artifactId>
-		</dependency>
+		<!-- <dependency> -->
+		<!-- <groupId>org.codehaus.jackson</groupId> -->
+		<!-- <artifactId>jackson-core-asl</artifactId> -->
+		<!-- </dependency> -->
+		<!-- <dependency> -->
+		<!-- <groupId>org.codehaus.jackson</groupId> -->
+		<!-- <artifactId>jackson-mapper-asl</artifactId> -->
+		<!-- </dependency> -->
+		<!-- <dependency> -->
+		<!-- <groupId>org.codehaus.jackson</groupId> -->
+		<!-- <artifactId>jackson-xc</artifactId> -->
+		<!-- </dependency> -->
+
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
